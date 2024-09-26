@@ -1,0 +1,7 @@
+#+title: NuttX tutorial
+#+author: Aziz Amerul Faozi
+
+* Intro
+
+this repo is collection of experience in doing of Nuttx.
+ 
